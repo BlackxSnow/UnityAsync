@@ -1,0 +1,11 @@
+{
+    "name": "com.mucksponge.unityasync",
+    "version": "0.1.3",
+    "displayName": "Unity Async",
+    "description": "An allocation-free, high performance coroutine framework for Unity built around the async API",
+    "unity": "2018.2",
+    "unityRelease": "11f1",
+    "author": {
+        "name": "muckSponge"
+    }
+}

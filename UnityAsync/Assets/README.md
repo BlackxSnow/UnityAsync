@@ -20,6 +20,9 @@ The one caveat is, in order to store the coroutine, a `Task` object must be allo
 
 # Usage
 ## Installation
+### Unity Package Manager (UPM)
+Select "Add package from git URL" and input `https://github.com/BlackxSnow/UnityAsync.git?path=UnityAsync/Assets`.
+### Other
 Clone the repo into your assets folder or download the [latest release](https://github.com/muckSponge/UnityAsync/releases/latest) and open the .unitypackage.
 
 ## Replacing existing coroutines
